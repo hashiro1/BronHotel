@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\BronHotelProject\BronHotelProject\obj\Debug\BronHotelProject.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\BronHotelProject\BronHotelProject\obj\Debug\BronHotelProject.Form1.resources
+C:\Users\admin\source\repos\BronHotelProject\BronHotelProject\obj\Debug\BronHotelProject.Properties.Resources.resources
+C:\Users\admin\source\repos\BronHotelProject\BronHotelProject\obj\Debug\BronHotelProject.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\BronHotelProject\BronHotelProject\obj\Debug\BronHotelProject.csproj.CoreCompileInputs.cache
